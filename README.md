@@ -1,4 +1,5 @@
 # Conversations with ChatGPT
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This repository holds various conversations I've had with ChatGPT on a wide range of topics.  
 I'm interested in exploring the model's perspectives, reasoning, and responses, and this repo serves as a place to document and reflect on those discussions.
